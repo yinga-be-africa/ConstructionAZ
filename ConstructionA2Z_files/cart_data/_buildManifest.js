@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a){return {"/cart":["static\u002Fchunks\u002Fc8b05f54.171267e02d8683b21e5e.js",a],"/playground":[a]}}("static\u002Fchunks\u002Fee498cfe90a2346be48725bf2afb346ffc011c07.e4615ab2fb0121268a69.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
